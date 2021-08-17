@@ -14,6 +14,6 @@ Delaunay mesh generation method was divided to three  parts: (1) Geometry, (2) I
 Physically-based mesh optimization was divided to two  parts: (1) OptimizedNodes and (2) OptimizedMesh. In order to obtaining optimized mesh, the two parts must be run in order. The data generated the Mesh in previous subsection are needed by OptimizedNodes program and the data generated the OptimizedNodes are needed by the OptimizedMesh program. 
 
 
-**Notice:** The source codes do not provide the intermediate mesh data and final mesh data. You should generate these data from Geometry step by step. Four different geometries are provided in the directory of Geometry. The is a Figure.m program in each program directory draw the figure of generated data.    
+**Notice:** The source codes do not provide the intermediate mesh data and final mesh data. You should generate these data from Geometry step by step. Four different geometries are provided in the directory of Geometry. There is a Figure.m program in each program directory draw the figure of generated data.    
 
 
