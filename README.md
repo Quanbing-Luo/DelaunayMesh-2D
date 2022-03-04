@@ -1,8 +1,8 @@
 # DelaunayMesh-2D
- This repository includes the source codes and manuscript for the paper: 
+ This repository includes the source code for the paper: 
 -  **Quanbing Luo**, Automatic Delaunay mesh generation method and physically-based mesh optimization method on two-dimensional regions, [Engineering with Computers](https://doi.org/10.1007/s00366-020-01262-x), 2021 (Published Online)
 
-The source codes were divided to two parts: (1) Delaunay mesh generation method and (2) Physically-based mesh optimization. 
+The source code is divided to two parts: (1) Delaunay mesh generation method and (2) Physically-based mesh optimization. 
 
 ## Delaunay mesh generation method
 
